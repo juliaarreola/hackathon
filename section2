@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hackathon</title>
+</head>
+<body>
+<section id="our-story">
+  <h2>Our Story</h2>
+  <h4>One Man. One Dream.</h4>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio iure, eaque laborum doloribus iusto, porro?</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, quos omnis laudantium obcaecati nulla accusantium!</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio minima neque temporibus accusamus itaque eos.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, eum totam, atque eius minus illum!</p>
+  </section>  
+</body>
+</html>
